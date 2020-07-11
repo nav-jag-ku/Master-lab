@@ -1,2 +1,2 @@
-# Master Lab
+# AWS labs
 This is for tutorial purpose
