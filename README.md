@@ -1,3 +1,2 @@
-# DevOps
-Devops related documents
+# Master Lab
 This is for tutorial purpose
